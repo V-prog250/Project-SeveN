@@ -16,5 +16,10 @@ namespace Project_SeveN
         {
             InitializeComponent();
         }
+
+        private void gunaAdvenceTileButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
